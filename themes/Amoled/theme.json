@@ -1,9 +1,9 @@
 {
     "colors": {
-        "AlternateBase": "#000000",
-        "Base": "#000000",
+        "AlternateBase": "#0f0f0f",
+        "Base": "#0f0f0f",
         "BrightText": "#ff0000",
-        "Button": "#000000",
+        "Button": "#0f0f0f",
         "ButtonText": "#ffffff",
         "Highlight": "#4C4C4C",
         "HighlightedText": "#CCCCCC",
@@ -11,10 +11,10 @@
         "Text": "#ffffff",
         "ToolTipBase": "#ffffff",
         "ToolTipText": "#ffffff",
-        "Window": "#000000",
+        "Window": "#0f0f0f",
         "WindowText": "#ffffff",
         "fadeAmount": 0.5,
-        "fadeColor": "#000000"
+        "fadeColor": "#0f0f0f"
     },
     "name": "Amoled",
     "widgets": "Fusion"
